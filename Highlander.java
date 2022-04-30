@@ -101,7 +101,7 @@ public class Highlander extends Robot
 	}
 	
 	/**
-	 * run: Prototipo's default behavior
+	 * run: Highlander's default behavior
 	 */
 	public void run() {
 		this.topLine = getBattleFieldHeight() - (getHeight() + 2);
