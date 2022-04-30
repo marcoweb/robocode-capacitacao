@@ -6,7 +6,7 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * Highlander - a robot by (your name here)
+ * Highlander - a robot by (Highlander - Gabriel Vieira Seraphim, Ivan Leal Morales, Marco Antônio Gusmão Carvalho)
  */
 public class Highlander extends Robot
 {
